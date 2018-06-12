@@ -36,7 +36,7 @@ class ViewController: UIViewController {
     
     
     @IBAction func turnBackgroundIndigo(_ sender: Any) {
-        view.backgroundColor = .magenta
+        view.backgroundColor = .purple
     }
     
 
